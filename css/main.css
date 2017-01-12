@@ -1,17 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Wallpoet');
+
 #countbox1{
-	font-family: SubwayTicker;
+	font-family: 'Wallpoet';
 	color: aqua;
 	font-size: 3em;
 }
 
 body {
 	background: black;
-}
-
-@font-face {
-    font-family: SubwayTicker;
-    src: url(fonts/subway_ticker.tff);
-    font-weight:400;
 }
 
 .col-sm-11 {
@@ -41,4 +37,5 @@ body {
 
 #greeting{
 	color: white;
+	font-family: 'Press Start 2P', cursive;
 }
