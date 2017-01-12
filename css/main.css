@@ -1,0 +1,44 @@
+#countbox1{
+	font-family: SubwayTicker;
+	color: aqua;
+	font-size: 5em;
+}
+
+body {
+	background: black;
+}
+
+@font-face {
+    font-family: SubwayTicker;
+    src: url(fonts/subway_ticker.tff);
+    font-weight:900;
+}
+
+.col-sm-11 {
+	text-align: center !important;
+
+}
+
+#are{
+	color: green;
+}
+
+#you{
+	color: pink;
+}
+
+#ready {
+	color: burlywood;
+}
+
+#to {
+	color: yellow;
+}
+
+#rumble {
+	color: red;
+}
+
+#greeting{
+	color: white;
+}
