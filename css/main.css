@@ -1,7 +1,7 @@
 #countbox1{
 	font-family: SubwayTicker;
 	color: aqua;
-	font-size: 5em;
+	font-size: 3em;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 @font-face {
     font-family: SubwayTicker;
     src: url(fonts/subway_ticker.tff);
-    font-weight:900;
+    font-weight:400;
 }
 
 .col-sm-11 {
