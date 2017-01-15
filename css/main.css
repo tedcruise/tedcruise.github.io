@@ -3,18 +3,19 @@
 #countbox1{
 	font-family: 'Wallpoet';
 	color: aqua;
-	font-size: 1em;
+	font-size: 20px;
 }
 
 body {
 	background: black;
 }
 
-.col-sm-11 {
+.col-sm-6 {
 	text-align: center !important;
-
 }
-
+.happening {
+	width: 20%;
+}
 #are{
 	color: green;
 }
